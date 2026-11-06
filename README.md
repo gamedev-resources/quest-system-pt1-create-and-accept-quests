@@ -14,8 +14,8 @@ Check out the other parts:
 | Part | Topic | Repository |
 | ---- | ----- | ---------- |
 | **1** | **Create and Accept Quests** | *You are here* |
-| 2 | Tracking Pickups and Turning In Quests | [quest-system-pt2-tracking-pickups-and-turning-in-quests](https://github.com/gamedev-resources/quest-system-pt2-tracking-pickups-and-turning-in-quests) |
-| 3 | Saving and Loading Quest Progress | [quest-system-pt3-saving-and-loading-quest-progress](https://github.com/gamedev-resources/quest-system-pt3-saving-and-loading-quest-progress) |
+| 2 | Tracking Pickups and Turning In Quests | Coming soon |
+| 3 | Saving and Loading Quest Progress | Coming soon |
 
 ## What's Included
 
