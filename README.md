@@ -2,7 +2,7 @@
 
 <img src="image/quest-pt1.png" alt="Video thumbnail" width="600">
 
-Build a quest giver, accept a quest, and display its objectives in a tracker. This is the first part of a three-part quest system series in Unity.
+In this tutorial, you will learn how to build the foundation of a quest system using ScriptableObjects, the factory pattern, and an event bus. By the end, you will be able to define objectives and rewards, let the player accept a quest from an NPC, and display its objectives in an on-screen tracker.
 
 ## Course
 
