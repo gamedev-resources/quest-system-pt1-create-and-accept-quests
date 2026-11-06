@@ -18,7 +18,7 @@ Check out the other parts:
 
 ## What's Included
 
-- [`Quests/`](Quests/) - The scripts from `Assets/Scripts/Gameplay/Quests`, with their folder structure and Unity metadata preserved.
+- [`Quests/`](Quests/) - The scripts from `Assets/Scripts/Gameplay/Quests`, with their folder structure preserved.
 
 These scripts use the demo's existing event bus, inventory, interaction, input and quest UI code, plus the SerializeReference Extensions package. They are companion code, rather than a standalone Unity project.
 
