@@ -1,4 +1,5 @@
-# Build a Quest System in Unity 6 — Part 1: Create and Accept Quests
+# Build a Quest System in Unity 6
+## Part 1: Create and Accept Quests
 
 <img src="image/quest-pt1.png" alt="Video thumbnail" width="600">
 
