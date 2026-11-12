@@ -25,6 +25,7 @@ These scripts use the demo's existing event bus, inventory, interaction, input a
 
 ## Resources
 
-- 🎨 [Art Assets by Kay Lousberg](https://af.unity.com/ot/0eyX99W/)
+- [Art Assets by Kay Lousberg](https://af.unity.com/ot/0eyX99W/)
+- Unity Serialize Reference Extensions: https://github.com/mackysoft/Unity-SerializeReferenceExtensions
 
 Note: These are affiliate links, which means if you purchase through them, I earn a small commission at no extra cost to you. That includes purchases of anything else, not just what I've linked. It helps me fund making new tutorials.
